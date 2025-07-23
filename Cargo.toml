@@ -2,5 +2,7 @@
 name = "falsify"
 version = "0.1.0"
 edition = "2024"
+description = "property-based testing framework for Rust"
+license = "MIT"
 
 [dependencies]
